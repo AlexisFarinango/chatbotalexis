@@ -1,0 +1,7 @@
+{
+  "name": "miappgeobot",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
